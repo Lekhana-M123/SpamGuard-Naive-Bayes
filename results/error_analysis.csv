@@ -1,0 +1,22 @@
+message,actual,predicted,spam_probability,prediction_status,error_type,prediction_confidence
+No calls..messages..missed calls,ham,spam,0.9599530973077771,Incorrect,False Positive,0.9599530973077771
+"Will u meet ur dream partner soon? Is ur career off 2 a flyng start? 2 find out free, txt HORO followed by ur star sign, e. g. HORO ARIES",spam,ham,0.03450979055490513,Incorrect,False Negative,0.9654902094450949
+No calls..messages..missed calls,ham,spam,0.9599530973077771,Incorrect,False Positive,0.9599530973077771
+Are you free now?can i call now?,ham,spam,0.837106468344467,Incorrect,False Positive,0.837106468344467
+Hello. We need some posh birds and chaps to user trial prods for champneys. Can i put you down? I need your address and dob asap. Ta r,spam,ham,1.0768247469227114e-10,Incorrect,False Negative,0.9999999998923175
+"Got what it takes 2 take part in the WRC Rally in Oz? U can with Lucozade Energy! Text RALLY LE to 61200 (25p), see packs or lucozade.co.uk/wrc & itcould be u!",spam,ham,0.37418592923207317,Incorrect,False Negative,0.6258140707679268
+Would you like to see my XXX pics they are so hot they were nearly banned in the uk!,spam,ham,0.0007894616706957155,Incorrect,False Negative,0.9992105383293043
+More people are dogging in your area now. Call 09090204448 and join like minded guys. Why not arrange 1 yourself. There's 1 this evening. A£1.50 minAPN LS278BB,spam,ham,0.0008937686736762006,Incorrect,False Negative,0.9991062313263238
+No calls..messages..missed calls,ham,spam,0.9599530973077771,Incorrect,False Positive,0.9599530973077771
+Back 2 work 2morro half term over! Can U C me 2nite 4 some sexy passion B4 I have 2 go back? Chat NOW 09099726481 Luv DENA Calls £1/minMobsmoreLKPOBOX177HP51FL,spam,ham,0.287190089349501,Incorrect,False Negative,0.712809910650499
+Dont you have message offer,ham,spam,0.5567800663710691,Incorrect,False Positive,0.5567800663710691
+Guess who am I?This is the first time I created a web page WWW.ASJESUS.COM read all I wrote. I'm waiting for your opinions. I want to be your friend 1/1,spam,ham,0.00024683746549967805,Incorrect,False Negative,0.9997531625345003
+"Do you ever notice that when you're driving, anyone going slower than you is an idiot and everyone driving faster than you is a maniac?",spam,ham,9.174558140540088e-19,Incorrect,False Negative,1.0
+You won't believe it but it's true. It's Incredible Txts! Reply G now to learn truly amazing things that will blow your mind. From O2FWD only 18p/txt,spam,ham,1.3747820899538304e-05,Incorrect,False Negative,0.9999862521791004
+TBS/PERSOLVO. been chasing us since Sept for£38 definitely not paying now thanks to your information. We will ignore them. Kath. Manchester.,spam,ham,1.945991791003202e-06,Incorrect,False Negative,0.999998054008209
+Loans for any purpose even if you have Bad Credit! Tenants Welcome. Call NoWorriesLoans.com on 08717111821,spam,ham,0.07285647293149547,Incorrect,False Negative,0.9271435270685046
+Money i have won wining number 946 wot do i do next,spam,ham,0.0012759493071270972,Incorrect,False Negative,0.998724050692873
+Gettin rdy to ship comp,ham,spam,0.9510377960069755,Incorrect,False Positive,0.9510377960069755
+"Got what it takes 2 take part in the WRC Rally in Oz? U can with Lucozade Energy! Text RALLY LE to 61200 (25p), see packs or lucozade.co.uk/wrc & itcould be u!",spam,ham,0.37418592923207317,Incorrect,False Negative,0.6258140707679268
+You won't believe it but it's true. It's Incredible Txts! Reply G now to learn truly amazing things that will blow your mind. From O2FWD only 18p/txt,spam,ham,1.3747820899538304e-05,Incorrect,False Negative,0.9999862521791004
+"Latest News! Police station toilet stolen, cops have nothing to go on!",spam,ham,0.010611855378606335,Incorrect,False Negative,0.9893881446213937

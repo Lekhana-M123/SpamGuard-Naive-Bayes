@@ -1,0 +1,277 @@
+error_type,term,message_count,percentage_of_messages
+False Positive,calls,3,50.0
+False Positive,calls messages,3,50.0
+False Positive,messages,3,50.0
+False Positive,messages missed,3,50.0
+False Positive,missed,3,50.0
+False Positive,missed calls,3,50.0
+False Positive,no,3,50.0
+False Positive,no calls,3,50.0
+False Positive,comp,1,16.666666666666664
+False Positive,dont,1,16.666666666666664
+False Positive,dont message,1,16.666666666666664
+False Positive,free,1,16.666666666666664
+False Positive,gettin,1,16.666666666666664
+False Positive,gettin rdy,1,16.666666666666664
+False Positive,message,1,16.666666666666664
+False Positive,message offer,1,16.666666666666664
+False Positive,offer,1,16.666666666666664
+False Positive,rdy,1,16.666666666666664
+False Positive,rdy ship,1,16.666666666666664
+False Positive,ship,1,16.666666666666664
+False Positive,ship comp,1,16.666666666666664
+False Negative,txt,3,20.0
+False Negative,uk,3,20.0
+False Negative,won,3,20.0
+False Negative,amazing,2,13.333333333333334
+False Negative,amazing things,2,13.333333333333334
+False Negative,believe,2,13.333333333333334
+False Negative,believe true,2,13.333333333333334
+False Negative,blow,2,13.333333333333334
+False Negative,blow mind,2,13.333333333333334
+False Negative,com,2,13.333333333333334
+False Negative,energy,2,13.333333333333334
+False Negative,energy text,2,13.333333333333334
+False Negative,got,2,13.333333333333334
+False Negative,got takes,2,13.333333333333334
+False Negative,incredible,2,13.333333333333334
+False Negative,incredible txts,2,13.333333333333334
+False Negative,itcould,2,13.333333333333334
+False Negative,le,2,13.333333333333334
+False Negative,le packs,2,13.333333333333334
+False Negative,learn,2,13.333333333333334
+False Negative,learn truly,2,13.333333333333334
+False Negative,like,2,13.333333333333334
+False Negative,lucozade,2,13.333333333333334
+False Negative,lucozade energy,2,13.333333333333334
+False Negative,lucozade uk,2,13.333333333333334
+False Negative,mind,2,13.333333333333334
+False Negative,mind txt,2,13.333333333333334
+False Negative,not,2,13.333333333333334
+False Negative,oz,2,13.333333333333334
+False Negative,oz lucozade,2,13.333333333333334
+False Negative,packs,2,13.333333333333334
+False Negative,packs lucozade,2,13.333333333333334
+False Negative,rally,2,13.333333333333334
+False Negative,rally le,2,13.333333333333334
+False Negative,rally oz,2,13.333333333333334
+False Negative,reply,2,13.333333333333334
+False Negative,reply learn,2,13.333333333333334
+False Negative,takes,2,13.333333333333334
+False Negative,takes wrc,2,13.333333333333334
+False Negative,text,2,13.333333333333334
+False Negative,text rally,2,13.333333333333334
+False Negative,things,2,13.333333333333334
+False Negative,things blow,2,13.333333333333334
+False Negative,true,2,13.333333333333334
+False Negative,true incredible,2,13.333333333333334
+False Negative,truly,2,13.333333333333334
+False Negative,truly amazing,2,13.333333333333334
+False Negative,txts,2,13.333333333333334
+False Negative,txts reply,2,13.333333333333334
+False Negative,uk wrc,2,13.333333333333334
+False Negative,won believe,2,13.333333333333334
+False Negative,wrc,2,13.333333333333334
+False Negative,wrc itcould,2,13.333333333333334
+False Negative,wrc rally,2,13.333333333333334
+False Negative,address,1,6.666666666666667
+False Negative,address dob,1,6.666666666666667
+False Negative,area,1,6.666666666666667
+False Negative,area join,1,6.666666666666667
+False Negative,aries,1,6.666666666666667
+False Negative,arrange,1,6.666666666666667
+False Negative,arrange evening,1,6.666666666666667
+False Negative,asap,1,6.666666666666667
+False Negative,asap ta,1,6.666666666666667
+False Negative,asjesus,1,6.666666666666667
+False Negative,asjesus com,1,6.666666666666667
+False Negative,bad,1,6.666666666666667
+False Negative,bad credit,1,6.666666666666667
+False Negative,banned,1,6.666666666666667
+False Negative,banned uk,1,6.666666666666667
+False Negative,birds,1,6.666666666666667
+False Negative,birds chaps,1,6.666666666666667
+False Negative,calls,1,6.666666666666667
+False Negative,career,1,6.666666666666667
+False Negative,career flyng,1,6.666666666666667
+False Negative,champneys,1,6.666666666666667
+False Negative,champneys need,1,6.666666666666667
+False Negative,chaps,1,6.666666666666667
+False Negative,chaps user,1,6.666666666666667
+False Negative,chasing,1,6.666666666666667
+False Negative,chasing sept,1,6.666666666666667
+False Negative,chat,1,6.666666666666667
+False Negative,chat luv,1,6.666666666666667
+False Negative,com read,1,6.666666666666667
+False Negative,cops,1,6.666666666666667
+False Negative,created,1,6.666666666666667
+False Negative,created web,1,6.666666666666667
+False Negative,credit,1,6.666666666666667
+False Negative,credit tenants,1,6.666666666666667
+False Negative,definitely,1,6.666666666666667
+False Negative,definitely not,1,6.666666666666667
+False Negative,dena,1,6.666666666666667
+False Negative,dena calls,1,6.666666666666667
+False Negative,dob,1,6.666666666666667
+False Negative,dob asap,1,6.666666666666667
+False Negative,dogging,1,6.666666666666667
+False Negative,dogging area,1,6.666666666666667
+False Negative,dream,1,6.666666666666667
+False Negative,dream partner,1,6.666666666666667
+False Negative,driving,1,6.666666666666667
+False Negative,driving faster,1,6.666666666666667
+False Negative,driving going,1,6.666666666666667
+False Negative,evening,1,6.666666666666667
+False Negative,evening minapn,1,6.666666666666667
+False Negative,faster,1,6.666666666666667
+False Negative,faster maniac,1,6.666666666666667
+False Negative,flyng,1,6.666666666666667
+False Negative,flyng start,1,6.666666666666667
+False Negative,followed,1,6.666666666666667
+False Negative,followed ur,1,6.666666666666667
+False Negative,free,1,6.666666666666667
+False Negative,free txt,1,6.666666666666667
+False Negative,friend,1,6.666666666666667
+False Negative,going,1,6.666666666666667
+False Negative,going slower,1,6.666666666666667
+False Negative,guess,1,6.666666666666667
+False Negative,guess time,1,6.666666666666667
+False Negative,guys,1,6.666666666666667
+False Negative,guys not,1,6.666666666666667
+False Negative,half,1,6.666666666666667
+False Negative,half term,1,6.666666666666667
+False Negative,hello,1,6.666666666666667
+False Negative,hello need,1,6.666666666666667
+False Negative,horo,1,6.666666666666667
+False Negative,horo aries,1,6.666666666666667
+False Negative,horo followed,1,6.666666666666667
+False Negative,hot,1,6.666666666666667
+False Negative,hot nearly,1,6.666666666666667
+False Negative,idiot,1,6.666666666666667
+False Negative,idiot driving,1,6.666666666666667
+False Negative,ignore,1,6.666666666666667
+False Negative,ignore kath,1,6.666666666666667
+False Negative,information,1,6.666666666666667
+False Negative,information ignore,1,6.666666666666667
+False Negative,join,1,6.666666666666667
+False Negative,join like,1,6.666666666666667
+False Negative,kath,1,6.666666666666667
+False Negative,kath manchester,1,6.666666666666667
+False Negative,latest,1,6.666666666666667
+False Negative,latest news,1,6.666666666666667
+False Negative,like minded,1,6.666666666666667
+False Negative,like xxx,1,6.666666666666667
+False Negative,loans,1,6.666666666666667
+False Negative,loans purpose,1,6.666666666666667
+False Negative,luv,1,6.666666666666667
+False Negative,luv dena,1,6.666666666666667
+False Negative,manchester,1,6.666666666666667
+False Negative,maniac,1,6.666666666666667
+False Negative,meet,1,6.666666666666667
+False Negative,meet ur,1,6.666666666666667
+False Negative,minapn,1,6.666666666666667
+False Negative,minded,1,6.666666666666667
+False Negative,minded guys,1,6.666666666666667
+False Negative,money,1,6.666666666666667
+False Negative,money won,1,6.666666666666667
+False Negative,nearly,1,6.666666666666667
+False Negative,nearly banned,1,6.666666666666667
+False Negative,need,1,6.666666666666667
+False Negative,need address,1,6.666666666666667
+False Negative,need posh,1,6.666666666666667
+False Negative,news,1,6.666666666666667
+False Negative,news police,1,6.666666666666667
+False Negative,not arrange,1,6.666666666666667
+False Negative,not paying,1,6.666666666666667
+False Negative,notice,1,6.666666666666667
+False Negative,notice driving,1,6.666666666666667
+False Negative,noworriesloans,1,6.666666666666667
+False Negative,noworriesloans com,1,6.666666666666667
+False Negative,number,1,6.666666666666667
+False Negative,number wot,1,6.666666666666667
+False Negative,opinions,1,6.666666666666667
+False Negative,opinions want,1,6.666666666666667
+False Negative,page,1,6.666666666666667
+False Negative,page www,1,6.666666666666667
+False Negative,partner,1,6.666666666666667
+False Negative,partner soon,1,6.666666666666667
+False Negative,passion,1,6.666666666666667
+False Negative,passion chat,1,6.666666666666667
+False Negative,paying,1,6.666666666666667
+False Negative,paying thanks,1,6.666666666666667
+False Negative,people,1,6.666666666666667
+False Negative,people dogging,1,6.666666666666667
+False Negative,persolvo,1,6.666666666666667
+False Negative,persolvo chasing,1,6.666666666666667
+False Negative,pics,1,6.666666666666667
+False Negative,pics hot,1,6.666666666666667
+False Negative,police,1,6.666666666666667
+False Negative,police station,1,6.666666666666667
+False Negative,posh,1,6.666666666666667
+False Negative,posh birds,1,6.666666666666667
+False Negative,prods,1,6.666666666666667
+False Negative,prods champneys,1,6.666666666666667
+False Negative,purpose,1,6.666666666666667
+False Negative,purpose bad,1,6.666666666666667
+False Negative,read,1,6.666666666666667
+False Negative,read wrote,1,6.666666666666667
+False Negative,sept,1,6.666666666666667
+False Negative,sept definitely,1,6.666666666666667
+False Negative,sexy,1,6.666666666666667
+False Negative,sexy passion,1,6.666666666666667
+False Negative,sign,1,6.666666666666667
+False Negative,sign horo,1,6.666666666666667
+False Negative,slower,1,6.666666666666667
+False Negative,slower idiot,1,6.666666666666667
+False Negative,soon,1,6.666666666666667
+False Negative,soon ur,1,6.666666666666667
+False Negative,star,1,6.666666666666667
+False Negative,star sign,1,6.666666666666667
+False Negative,start,1,6.666666666666667
+False Negative,start free,1,6.666666666666667
+False Negative,station,1,6.666666666666667
+False Negative,station toilet,1,6.666666666666667
+False Negative,stolen,1,6.666666666666667
+False Negative,stolen cops,1,6.666666666666667
+False Negative,ta,1,6.666666666666667
+False Negative,tbs,1,6.666666666666667
+False Negative,tbs persolvo,1,6.666666666666667
+False Negative,tenants,1,6.666666666666667
+False Negative,tenants welcome,1,6.666666666666667
+False Negative,term,1,6.666666666666667
+False Negative,term sexy,1,6.666666666666667
+False Negative,thanks,1,6.666666666666667
+False Negative,thanks information,1,6.666666666666667
+False Negative,time,1,6.666666666666667
+False Negative,time created,1,6.666666666666667
+False Negative,toilet,1,6.666666666666667
+False Negative,toilet stolen,1,6.666666666666667
+False Negative,trial,1,6.666666666666667
+False Negative,trial prods,1,6.666666666666667
+False Negative,txt horo,1,6.666666666666667
+False Negative,ur,1,6.666666666666667
+False Negative,ur career,1,6.666666666666667
+False Negative,ur dream,1,6.666666666666667
+False Negative,ur star,1,6.666666666666667
+False Negative,user,1,6.666666666666667
+False Negative,user trial,1,6.666666666666667
+False Negative,waiting,1,6.666666666666667
+False Negative,waiting opinions,1,6.666666666666667
+False Negative,want,1,6.666666666666667
+False Negative,want friend,1,6.666666666666667
+False Negative,web,1,6.666666666666667
+False Negative,web page,1,6.666666666666667
+False Negative,welcome,1,6.666666666666667
+False Negative,welcome noworriesloans,1,6.666666666666667
+False Negative,wining,1,6.666666666666667
+False Negative,wining number,1,6.666666666666667
+False Negative,won wining,1,6.666666666666667
+False Negative,work,1,6.666666666666667
+False Negative,work half,1,6.666666666666667
+False Negative,wot,1,6.666666666666667
+False Negative,wrote,1,6.666666666666667
+False Negative,wrote waiting,1,6.666666666666667
+False Negative,www,1,6.666666666666667
+False Negative,www asjesus,1,6.666666666666667
+False Negative,xxx,1,6.666666666666667
+False Negative,xxx pics,1,6.666666666666667
